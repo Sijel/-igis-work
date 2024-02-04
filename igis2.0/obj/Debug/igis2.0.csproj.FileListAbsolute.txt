@@ -1,0 +1,227 @@
+F:\igis\igis2.0\bin\Debug\igis2.0.exe.config
+F:\igis\igis2.0\bin\Debug\igis2.0.exe
+F:\igis\igis2.0\bin\Debug\igis2.0.pdb
+F:\igis\igis2.0\obj\Debug\igis2.0.csproj.AssemblyReference.cache
+F:\igis\igis2.0\obj\Debug\igis2.0.csproj.SuggestedBindingRedirects.cache
+F:\igis\igis2.0\obj\Debug\igis2._0.Form1.resources
+F:\igis\igis2.0\obj\Debug\igis2._0.Properties.Resources.resources
+F:\igis\igis2.0\obj\Debug\igis2.0.csproj.GenerateResource.cache
+F:\igis\igis2.0\obj\Debug\igis2.0.csproj.CoreCompileInputs.cache
+F:\igis\igis2.0\obj\Debug\igis2.0.exe
+F:\igis\igis2.0\obj\Debug\igis2.0.pdb
+F:\igis\igis2.0\obj\Debug\igis2._0.BusForm.resources
+F:\igis\igis2.0\obj\Debug\igis2._0.TrolForm.resources
+F:\igis\igis2.0\obj\Debug\igis2._0.TramForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis-main\igis2.0\obj\Debug\igis2.0.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis-main\igis2.0\obj\Debug\igis2.0.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis-main\igis2.0\obj\Debug\igis2.0.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis-main\igis2.0\obj\Debug\igis2.0.pdb
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\x86\sqlite3.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\x64\sqlite3.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\igis2.0.exe.config
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\igis2.0.exe
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\igis2.0.pdb
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\System.Buffers.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\System.Memory.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\System.Buffers.xml
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\System.Memory.xml
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Student\Documents\igis-main\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2.0.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2._0.BusForm.resources
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2._0.Form1.resources
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2._0.Properties.Resources.resources
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2._0.TramForm.resources
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2._0.TrolForm.resources
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2.0.csproj.GenerateResource.cache
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2.0.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2.0.csproj.CopyComplete
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2.0.exe
+C:\Users\Student\Documents\igis-main\igis2.0\obj\Debug\igis2.0.pdb
+<<<<<<< HEAD
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\x86\sqlite3.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\x64\sqlite3.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\igis2.0.exe.config
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\igis2.0.exe
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\igis2.0.pdb
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\EntityFramework.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\System.Buffers.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\System.Memory.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\EntityFramework.xml
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\System.Buffers.xml
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\System.Memory.xml
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2.0.csproj.AssemblyReference.cache
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2._0.BusForm.resources
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2._0.Form1.resources
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2._0.Properties.Resources.resources
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2._0.TramForm.resources
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2._0.TrolForm.resources
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2.0.csproj.GenerateResource.cache
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2.0.csproj.CoreCompileInputs.cache
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2.0.csproj.CopyComplete
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2.0.exe
+C:\Users\nand5\Documents\GitHub\igis\igis-main\igis2.0\obj\Debug\igis2.0.pdb
+=======
+>>>>>>> 3262ca80ffdb5b9ab5c59c33a20230c9c819363b
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2.0.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2._0.BusForm.resources
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2._0.Form1.resources
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2._0.Properties.Resources.resources
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2._0.TramForm.resources
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2._0.TrolForm.resources
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2.0.csproj.GenerateResource.cache
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2.0.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2.0.exe
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2.0.pdb
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\x86\sqlite3.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\x64\sqlite3.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\igis2.0.exe.config
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\igis2.0.exe
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\igis2.0.pdb
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\System.Buffers.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\System.Memory.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\System.Buffers.xml
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\System.Memory.xml
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Student\Documents\GitHub\igis2.0\igis2.0\obj\Debug\igis2.0.csproj.CopyComplete
+C:\Users\Student\Documents\igis2.0\bin\Debug\x86\sqlite3.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\x64\sqlite3.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\igis2.0.exe.config
+C:\Users\Student\Documents\igis2.0\bin\Debug\igis2.0.exe
+C:\Users\Student\Documents\igis2.0\bin\Debug\igis2.0.pdb
+C:\Users\Student\Documents\igis2.0\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\System.Buffers.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\System.Memory.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Documents\igis2.0\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\igis2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\igis2.0\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Student\Documents\igis2.0\bin\Debug\System.Buffers.xml
+C:\Users\Student\Documents\igis2.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student\Documents\igis2.0\bin\Debug\System.Memory.xml
+C:\Users\Student\Documents\igis2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Student\Documents\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2.0.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2._0.BusForm.resources
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2._0.Form1.resources
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2._0.Properties.Resources.resources
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2._0.TramForm.resources
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2._0.TrolForm.resources
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2.0.csproj.GenerateResource.cache
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2.0.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2.0.csproj.CopyComplete
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2.0.exe
+C:\Users\Student\Documents\igis2.0\obj\Debug\igis2.0.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\x86\sqlite3.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\x64\sqlite3.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\igis2.0.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\igis2.0.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\igis2.0.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\EntityFramework.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\EntityFramework.SqlServer.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\Microsoft.Data.Sqlite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\SQLitePCLRaw.core.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\System.Buffers.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\System.Memory.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\System.Numerics.Vectors.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\EntityFramework.xml
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\EntityFramework.SqlServer.xml
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\Microsoft.Data.Sqlite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\System.Buffers.xml
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\System.Memory.xml
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\System.Numerics.Vectors.xml
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2.0.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2.0.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2._0.BusForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2._0.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2._0.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2._0.TramForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2._0.TrolForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2.0.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2.0.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2.0.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2.0.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31-9\МДК 03.02\РЭХИМАВ САББАТИН\igis2.0\obj\Debug\igis2.0.pdb
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\x86\sqlite3.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\x64\sqlite3.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\igis2.0.exe.config
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\igis2.0.exe
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\igis2.0.pdb
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\EntityFramework.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\System.Buffers.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\System.Data.SQLite.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\System.Memory.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\EntityFramework.xml
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\System.Buffers.xml
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\System.Data.SQLite.xml
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\System.Memory.xml
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2.0.csproj.AssemblyReference.cache
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2._0.BusForm.resources
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2._0.Form1.resources
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2._0.Properties.Resources.resources
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2._0.TramForm.resources
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2._0.TrolForm.resources
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2.0.csproj.GenerateResource.cache
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2.0.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2.0.csproj.CopyComplete
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2.0.exe
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2.0.pdb
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2._0.LogForm.resources
+C:\Users\Student2\Documents\GitHub\igis30\igis2.0\obj\Debug\igis2._0.AdmForm.resources

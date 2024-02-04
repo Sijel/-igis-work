@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igis2.0", "igis2.0.csproj", "{C129A0A4-EFFF-4E5E-89D3-12E37F54B48E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C129A0A4-EFFF-4E5E-89D3-12E37F54B48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C129A0A4-EFFF-4E5E-89D3-12E37F54B48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C129A0A4-EFFF-4E5E-89D3-12E37F54B48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C129A0A4-EFFF-4E5E-89D3-12E37F54B48E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8391D1D6-3247-46A5-950A-A83DFC02FC76}
+	EndGlobalSection
+EndGlobal
